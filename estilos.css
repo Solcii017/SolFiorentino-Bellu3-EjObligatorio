@@ -89,7 +89,6 @@ nav a:hover{
 /*ESTILOS DE BANNER*/
 .banner {
     /*Imagen de fondo*/
-    background-image: url(media/background\ 2.jpg);
     background-image: url(media/fondo\ nuevo.jpg) ;
     /*Posición del fondo x|y*/
     background-position: center bottom;
